@@ -1,0 +1,10 @@
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\bin\Debug\Random Number Writer.exe.config
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\bin\Debug\Random Number Writer.exe
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\bin\Debug\Random Number Writer.pdb
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random Number Writer.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random_Number_Writer.Form1.resources
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random_Number_Writer.Properties.Resources.resources
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random Number Writer.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random Number Writer.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random Number Writer.exe
+C:\Users\Ethan\source\repos\Random Number Writer\Random Number Writer\obj\Debug\Random Number Writer.pdb
